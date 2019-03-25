@@ -69,8 +69,9 @@ class Main extends Component {
       <div>
         <nav className="navbar is-dark" role="navigation" aria-label="main navigation">
           <div className="navbar-brand">
-            <a className="navbar-item" href="https://bulma.io">
-              <h1>Akyl phone book</h1>
+            <a className="navbar-item" href="https://github.com/BlincheG/sibers_test_work">
+              <img alt="phone" src="https://upload.wikimedia.org/wikipedia/en/4/4a/Commons-logo.svg" />
+              <h1>PhoneBook</h1>
             </a>
           </div>
         </nav>
